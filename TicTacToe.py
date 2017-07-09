@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
 # Sharon Gao
 # April 2017
 # Tic Tac Toe <Python>
@@ -135,29 +130,3 @@ while True:
                     currentPlayer = 1
     if not replay():
         break
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
